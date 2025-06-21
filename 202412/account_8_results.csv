@@ -1,0 +1,2 @@
+account_id,date,attempt,entry_time,entry_price,exit_time,exit_price,result,pnl,capital
+8,2024-12-08,1,2024-12-08 00:00:00+09:00,2.247e-05,2024-12-08 04:00:00+09:00,2.60652e-05,TP,106.77239999999996,100106.7724

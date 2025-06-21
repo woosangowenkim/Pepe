@@ -1,0 +1,2 @@
+account_id,date,attempt,entry_time,entry_price,exit_time,exit_price,result,pnl,capital
+27,2024-12-27,1,2024-12-27 00:00:00+09:00,1.731e-05,2024-12-31 17:00:00+09:00,2.0079599999999997e-05,TP,106.77239999999993,100106.7724
